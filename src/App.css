@@ -1,0 +1,36 @@
+.app{
+ min-height: 300px;
+ width: 500px;
+}
+button{
+  padding: 10px 30px;
+  margin-right: 10px;
+  border:none;
+  border-radius: 10px;
+  color: #ffff;
+  outline-style: none;
+}
+.start{
+  background-color: red;
+}
+.stop{
+  background-color: green;
+}
+.reset{
+  background-color: blueviolet;
+}
+.buttons{
+  padding: 30px;
+}
+.output{
+  outline-style: none;
+  border-radius: 10px;
+}
+.text{
+  color: black;
+  font-size: 22px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 700;
+  display: flex;
+  flex-wrap: wrap;
+}
